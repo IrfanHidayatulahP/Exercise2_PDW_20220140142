@@ -1,0 +1,19 @@
+.collapse .navbar-nav {
+    padding-left: 35rem;
+    padding-right: 35rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cyan;
+}
+
+.navbar {
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+}
+
+.container-fluid {
+    font-size: 19px;
+}
+
+body{
+    background-color: honeydew;
+}
